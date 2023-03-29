@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-image: url(IMG_20210817_185504.jpg);
+    background-blend-mode: overlay, luminosity;
+}
+
+th, td {
+    border: 1px solid black;
+    width: 168px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+input {
+    text-align: center;
+}
+
